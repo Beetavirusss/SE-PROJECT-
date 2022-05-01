@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Store",
+    "superclasses": "",
+    "subclasses": "",
+    "type": 1,
+    "responsibilities": [
+      "Creates a Store.",
+      "Keeps Store information."
+    ],
+    "collaborators": [
+      "Inventory "
+    ]
+  },
+  {
+    "name": "Inventory ",
+    "superclasses": "",
+    "subclasses": "",
+    "type": 1,
+    "responsibilities": [
+      "Keeps the information of the items available in the store",
+      "Manages Addition, Deletion, of items in a store ",
+      ""
+    ],
+    "collaborators": [
+      ""
+    ]
+  }
+]
